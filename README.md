@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning Django and Docker
 - https://daily.dev/fr-fr
-![Test](portfolio github/assets/gestion-industrielle.png](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/refs/heads/main/assets/gestion-industrielle.jpg)
+![Test](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/refs/heads/main/assets/gestion-industrielle.jpg)
 
   
 
