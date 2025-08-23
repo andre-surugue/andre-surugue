@@ -7,6 +7,7 @@
   
 - 🌱 I’m currently learning Django and Docker
 - https://daily.dev/fr-fr
+![Test](assets/gestion-industrielle.png)
 
   
 
