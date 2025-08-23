@@ -6,6 +6,7 @@
 ### <div align="center">I'm André, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 - 🌱 I’m currently learning Django and Docker
+- https://daily.dev/fr-fr
 
   
 
