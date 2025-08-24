@@ -57,7 +57,10 @@ https://daily.dev/fr-fr
 <div align="center">
 
 I am currently applying for two positions. <br/>
-<a href="https://daily.dev/fr-fr" target="_blank">daily.dev</a>
+ ![job1](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.jpg)
+  ![job2](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job2.jpg)
+
+I am designing a web-based site to collect data for business partners (3 month project)
 
 </div>
 <br/>
