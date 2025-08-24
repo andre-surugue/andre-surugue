@@ -38,7 +38,8 @@
 ## Connect with me  
 <div align="center">
 
- ![me contacter](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/contact.jpg)
+<img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/contact.jpg" alt="Contact" width="40%" />
+</div>
 
 </div>
   
