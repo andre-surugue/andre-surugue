@@ -44,6 +44,9 @@
 <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+  ![Texte alternatif](
+https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/contact.jpg)
+
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
