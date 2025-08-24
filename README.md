@@ -32,11 +32,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 </div>
 
-
-
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -54,8 +50,10 @@ I stay informed by regularly visiting this website.
 https://daily.dev/fr-fr
 
 </div>
-<br/>  
-## Job application  
+<br/>
+
+## Job application
+
 <div align="center">
 
 I stay informed by regularly visiting this website. 
