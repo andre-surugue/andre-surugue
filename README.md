@@ -57,8 +57,8 @@ https://daily.dev/fr-fr
 <div align="center">
 
 I am currently applying for two positions. <br/>
- ![job1](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.jpg)
-  ![job2](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job2.jpg)
+![job1](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.png)
+![job2](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job2.png)
 
 I am designing a web-based site to collect data for business partners (3 month project)
 
