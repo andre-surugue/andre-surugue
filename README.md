@@ -56,19 +56,16 @@ https://daily.dev/fr-fr
 </div>
 <br/>  
 ## Job application  
-
 <div align="center">
 
-I’m designing a web-based application to collect needs and feedbacks from business partners.  
+I stay informed by regularly visiting this website. 
 <a href="https://daily.dev/fr-fr" target="_blank">daily.dev</a>
 
 </div>
 <br/>
 
-
 ## Former Curriculum-vitae  
 <div align="center">
-
 I have a background in international business and education, with a formal education in litterature and economics/business.
 
 https://andre-surugue.github.io/
