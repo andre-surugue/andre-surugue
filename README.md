@@ -73,7 +73,8 @@ I am designing a web-based site to collect data for business partners (3 month p
 
 ## Former Curriculum-vitae  
 <div align="center">
-I have a background in international business and education, with a formal education in litterature and economics/business.<br/>
+I have a background in *international business*, with a formal education in litterature and economics/business.<br/>
+Further detail here :
 
 https://andre-surugue.github.io/
 
@@ -81,9 +82,12 @@ https://andre-surugue.github.io/
 
 
 
-## Recent Blog Posts  
+## Other  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Has lived abroad many years (11 in Russia, 8 in Bulgaria, 3 in Denmark)
+Speak several languages : English, Spanish, Russian, Danish.
+Keen interest in various fields of knowledge (History, Litterature, Philosophy)
+Fast, autonomous and eager learner
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
