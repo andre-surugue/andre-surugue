@@ -42,8 +42,8 @@
 ## Connect with me  
 <div align="center">
 
-  ![me contacter](
-https://raw.githubusercontent.com/andre-surugue/andre-surugue/main/assets/contact.jpg)
+ ![me contacter](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/contact.jpg)
+
 
 </div>
   
