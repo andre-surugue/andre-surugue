@@ -6,8 +6,7 @@
 ### <div align="center">I'm André, I am a database programmer with several years of experience implementing management tracking systems in various fields, and a good understanding of business needs.</div>  
   
 - 🌱 I’m currently learning Django and Docker
-- https://daily.dev/fr-fr
-
+- To implement my knowledge, I'm designing a web-based application to collect needs and feedbacks from business partners 
   
 
 <br/>  
@@ -44,11 +43,27 @@
 
  ![me contacter](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/contact.jpg)
 
-
 </div>
   
-
 <br/>  
+
+## Technology Monitoring  
+<div align="center">
+
+I stay informed by regularly visiting this website.
+https://daily.dev/fr-fr
+
+</div>
+
+## Job application  
+<div align="center">
+
+I stay informed by regularly visiting this website.
+https://daily.dev/fr-fr
+
+</div>
+
+<br/> 
 
 
 ## Github Stats  
