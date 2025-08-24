@@ -56,14 +56,16 @@ https://daily.dev/fr-fr
 </div>
 <br/>  
 ## Job application  
+<br/>
 <div align="center">
 
-I stay informed by regularly visiting this website.
-https://daily.dev/fr-fr
+I’m designing a web-based application to collect needs and feedbacks from business partners.  
+<a href="https://daily.dev/fr-fr" target="_blank">daily.dev</a>
 
 </div>
+<br/>
 
-<br/> 
+
 ## Former Curriculum-vitae  
 <div align="center">
 
