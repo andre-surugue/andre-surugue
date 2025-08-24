@@ -58,6 +58,7 @@ https://daily.dev/fr-fr
 <div align="center">
 
 I am currently applying for two positions. <br/>
+https://fr.indeed.com/q-devops-django-emplois.html?vjk=72189deba6e96cbf<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.jpg" alt="Contact" width="40%" />
