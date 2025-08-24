@@ -57,11 +57,12 @@ https://daily.dev/fr-fr
 <div align="center">
 
 I am currently applying for two positions. <br/>
-![job1](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.jpg)
-![job2](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job2.jpg)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.jpg" alt="Contact" width="30%" />
+<img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.jpg" alt="Contact" width="40%" />
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job2.jpg" alt="Contact" width="40%" />
 </div>
 
 I am designing a web-based site to collect data for business partners (3 month project)
