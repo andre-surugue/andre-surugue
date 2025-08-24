@@ -12,7 +12,9 @@
 
 <br/>  
 ## Computer training (2025)
+
 I have completed a one-year training :
+
 - Set up a Python development environment
 - Develop web applications with Django
 - Create and secure a PostgreSQL database
