@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Years of experience implementing management tracking systems.<br/>  Good understanding of business needs (see my CV below). <br/> Currently learning how to design a full database online, to put in practice one year training at OpenClassRoom.</div>  
+### <div align="center">Years of experience implementing management tracking systems.<br/>  Good understanding of business needs (see my CV below). <br/> Learning how to design a full database online, to put in practice one year training at OpenClassRoom.</div>  
   
 - I have finished a one-year training as Python Developper
 - I’m currently learning further Django and Docker
@@ -88,10 +88,10 @@ https://andre-surugue.github.io/
 
 ## Other  
 <!-- BLOG-POST-LIST:START -->  
--Has lived abroad many years (11 in Russia, 8 in Bulgaria, 3 in Denmark).<br/>
--Speak several languages : English, Spanish, Russian, Danish.<br/>
--Keen interest in various fields of knowledge (History, Litterature, Philosophy).<br/>
--Fast, autonomous and eager learner.
+- Has lived abroad many years (11 in Russia, 8 in Bulgaria, 3 in Denmark).
+- Speak several languages : English, Spanish, Russian, Danish.
+- Keen interest in various fields of knowledge (History, Litterature, Philosophy).
+- Fast, autonomous and eager learner.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
