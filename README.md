@@ -73,7 +73,7 @@ I am designing a web-based site to collect data for business partners (3 month p
 
 ## Former Curriculum-vitae  
 <div align="center">
-I have a background in *international business*, with a formal education in litterature and economics/business.<br/>
+I have a background in **international business**, with a formal education in litterature and economics/business.<br/>
 Further detail here :
 
 https://andre-surugue.github.io/
