@@ -69,7 +69,7 @@ https://daily.dev/fr-fr
 
 I have a background in international business and education, with a formal education in litterature and economics/business.
 
-[https://daily.dev/fr-fr](https://andre-surugue.github.io/)
+https://andre-surugue.github.io/
 
 </div>
 
