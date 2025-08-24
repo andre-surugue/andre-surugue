@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm André, I am a database user with several years of experience implementing management tracking systems in various fields.<br/>  I have a good understanding of business needs (see my CV below). <br/> I am currently learning how to design a full database online, after one year training at OpenClassRoom.</div>  
+### <div align="center">I'm André, I am a database user with years of experience implementing management tracking systems.<br/>  I have a good understanding of business needs (see my CV below). <br/> I am currently learning how to design a full database online, after one year training at OpenClassRoom.</div>  
   
 - 🌱 I’m currently learning Django and Docker
 - To implement my knowledge, I'm designing a web-based application to collect needs and feedbacks from business partners 
