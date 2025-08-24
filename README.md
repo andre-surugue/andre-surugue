@@ -3,11 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm André, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm André, I am a database programmer with several years of experience implementing management tracking systems in various fields, and a good understanding of business needs.</div>  
   
 - 🌱 I’m currently learning Django and Docker
 - https://daily.dev/fr-fr
-![Test](https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/refs/heads/main/assets/gestion-industrielle.jpg)
 
   
 
