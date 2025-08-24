@@ -36,7 +36,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 
 <img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/contact.jpg" alt="Contact" width="40%" />
 </div>
@@ -46,7 +46,7 @@
 <br/>  
 
 ## Technology Monitoring  
-<div align="center">
+<div align="left">
 
 I stay informed by regularly visiting this website.<br/>
 https://daily.dev/fr-fr
