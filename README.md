@@ -54,7 +54,7 @@ I stay informed by regularly visiting this website.
 https://daily.dev/fr-fr
 
 </div>
-
+<br/>  
 ## Job application  
 <div align="center">
 
