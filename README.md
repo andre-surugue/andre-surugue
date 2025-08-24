@@ -89,7 +89,7 @@ https://andre-surugue.github.io/
 ## Other  
 <!-- BLOG-POST-LIST:START -->  
 - Has lived abroad many years (11 in Russia, 8 in Bulgaria, 3 in Denmark).
-- Speak several languages : English, Spanish, Russian, Danish.
+- Speak several languages : English, Spanish, Russian, Italian, Danish.
 - Keen interest in various fields of knowledge (History, Litterature, Philosophy).
 - Fast, autonomous and eager learner.
 <!-- BLOG-POST-LIST:END -->  
