@@ -97,7 +97,9 @@ https://andre-surugue.github.io/
 
 <br/>  
 
-  
+### 👀 Compteur de visites
+![Visitor Count](https://komarev.com/ghpvc/?username=andre-surugue&color=blue)
+
 
 <br/>  
 
