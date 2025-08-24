@@ -56,7 +56,7 @@ https://daily.dev/fr-fr
 
 ## Job application
 
-<div align="center">
+<div align="left">
 
 I am currently applying for two positions. <br/>
 https://fr.indeed.com/q-devops-django-emplois.html?vjk=72189deba6e96cbf<br/>
@@ -68,8 +68,8 @@ https://fr.indeed.com/q-devops-django-emplois.html?vjk=72189deba6e96cbf<br/>
 <img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job2.jpg" alt="Contact" width="40%" />
 </div>
 
-<div align="left">
-I am designing a web-based site to collect data for business partners (3 month project)
+<div align="left"><br/><br/>
+I am currently designing a web-based site to collect data for business partners (3 month project)
 </div>
 </div>
 <br/>
