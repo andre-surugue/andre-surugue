@@ -11,7 +11,13 @@
   
 
 <br/>  
-
+## Computer training (2025)
+I have completed a one-year training :
+- Set up a Python development environment
+- Develop web applications with Django
+- Create and secure a PostgreSQL database
+- Test, debug, and improve applications
+- Use GitHub, Postman, and DevOps tools
 
 ## General information
 <table><tr><td valign="top" width="33%">
