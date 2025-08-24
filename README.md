@@ -56,7 +56,7 @@ https://daily.dev/fr-fr
 </div>
 <br/>  
 ## Job application  
-<br/>
+
 <div align="center">
 
 I’m designing a web-based application to collect needs and feedbacks from business partners.  
