@@ -92,6 +92,7 @@ https://andre-surugue.github.io/
 - Speak several languages : English, Spanish, Russian, Italian, Danish.
 - Keen interest in various fields of knowledge : Science, History, Litterature, Philosophy.
 - Learns quickly, thoroughly, and by myself.
+- Published author (fiction).
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
