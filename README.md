@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm André, I am a database programmer with several years of experience implementing management tracking systems in various fields, and a good understanding of business needs.</div>  
+### <div align="center">I'm André, I am a database user with several years of experience implementing management tracking systems in various fields.<br/>  I have a good understanding of business needs (see my CV below). <br/> I am currently learning how to design a full database online, after one year training at OpenClassRoom.</div>  
   
 - 🌱 I’m currently learning Django and Docker
 - To implement my knowledge, I'm designing a web-based application to collect needs and feedbacks from business partners 
@@ -46,7 +46,7 @@
 ## Technology Monitoring  
 <div align="center">
 
-I stay informed by regularly visiting this website.
+I stay informed by regularly visiting this website.<br/>
 https://daily.dev/fr-fr
 
 </div>
@@ -56,7 +56,7 @@ https://daily.dev/fr-fr
 
 <div align="center">
 
-I stay informed by regularly visiting this website. 
+I am currently applying for two positions. <br/>
 <a href="https://daily.dev/fr-fr" target="_blank">daily.dev</a>
 
 </div>
@@ -64,7 +64,7 @@ I stay informed by regularly visiting this website.
 
 ## Former Curriculum-vitae  
 <div align="center">
-I have a background in international business and education, with a formal education in litterature and economics/business.
+I have a background in international business and education, with a formal education in litterature and economics/business.<br/>
 
 https://andre-surugue.github.io/
 
