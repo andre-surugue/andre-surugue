@@ -11,7 +11,8 @@
   
 
 <br/>  
-## Computer training (2025)
+
+## Computer training (2025)<br/>  
 
 I have completed a one-year training :
 
