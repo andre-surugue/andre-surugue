@@ -3,11 +3,11 @@
 </div>  
   
 
-### <div align="center">Years of experience implementing management tracking systems.<br/>  Good understanding of business needs (see my CV below). <br/> Learning how to design a full database online, to put in practice one year training at OpenClassRoom.</div>  
+### <div align="center">Years of experience implementing management tracking systems.<br/>  Good understanding of business needs (see my CV below). <br/> Learning how to design a full database online, at OpenClassRoom.</div>  
   
-- I have finished a one-year training as Python Developper
+- I have finished a one-year training as Python Developper (september 2025)
 - I’m currently learning further Django and Docker
-- I'm designing a web-based application to collect needs and feedbacks from business partners 
+- I'm designing a web-based application to collect feedbacks from business partners (3-month practice)
   
 
 <br/>  
