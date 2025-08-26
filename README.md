@@ -54,34 +54,7 @@ I have completed a one-year training :
   
 <br/>  
 
-## Technology Monitoring  
-<div align="left">
 
-I stay informed by regularly visiting this website.<br/>
-https://daily.dev/fr-fr
-
-</div>
-<br/>
-
-## Job application
-
-<div align="left">
-
-I am currently applying for two positions. <br/>
-https://fr.indeed.com/q-devops-django-emplois.html?vjk=72189deba6e96cbf<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job1.jpg" alt="Contact" width="40%" />
-</div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/job2.jpg" alt="Contact" width="40%" />
-</div>
-
-<div align="left"><br/><br/>
-I am currently designing a web-based site to collect data for business partners (3 month project)
-</div>
-</div>
-<br/>
 
 ## Former Curriculum-vitae  
 
