@@ -10,9 +10,9 @@
 
 <br/>  
 
-## Formation théorique et pratique d'un an - OpenClassRoom (2025)<br/>  
+## Formation théorique et pratique d'un an - OpenClassRoom (2025)  
 
-J'ai suivi une formation d'un an :<br/> 
+J'ai suivi une formation d'un an :  
 
 - Configuration d'un environnement de développement Python  
 - Développement d'applications web avec Django  
