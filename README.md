@@ -100,7 +100,7 @@ https://andre-surugue.github.io/
 ## Autres
 <!-- BLOG-POST-LIST:START -->  
 - Séjours longs à l'étranger : 11 ans en Russie, 8 ans en Bulgarie, 4 ans au Danemark.
-- Je suis polyglotte : Anglais, Espagnol, Russe, Danois.
+- Je suis polyglotte : Français, Anglais, Espagnol, Russe, Danois.
 - Intérêt dans divers domaines : Sciences, Histoire, Littérature.
 - J'apprend vite, de façon autonome et rigoureuse.
 <!-- BLOG-POST-LIST:END -->  
