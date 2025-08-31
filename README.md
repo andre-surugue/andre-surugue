@@ -45,14 +45,14 @@ J'ai suivi une formation d'un an :<br/>
 <br/>  
 
 ## Mise en oeuvre d'un Docker 
-<div align="left">
+
 
 Maîtrise de la conteneurisation → création d’images Docker, écriture de Dockerfile efficaces et optimisation des couches.<br/> 
 Gestion des environnements → utilisation de docker-compose, orchestration de plusieurs services (BDD, backend, frontend, etc.).<br/> 
 Réseaux et volumes → configuration des réseaux Docker, gestion des volumes persistants et partage de données entre conteneurs.<br/> 
 Sécurité et bonnes pratiques → minimiser la taille des images, gestion des secrets et mise à jour régulière des conteneurs.<br/> 
 Déploiement et CI/CD → intégration de Docker dans des pipelines (GitLab CI, GitHub Actions, Jenkins) et déploiement sur serveurs ou cloud (AWS, GCP, Azure).
-</div>
+
 
 ## Conception et implémentation d'une API 
 <div align="left">
