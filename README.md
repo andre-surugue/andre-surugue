@@ -56,21 +56,21 @@ J'ai suivi une formation d'un an :
 ## Conception et implémentation d'une API 
 <div align="left">
 
-Conception d’API → définir les routes, les ressources, les méthodes HTTP (GET, POST, PUT, DELETE) et une structure claire (REST ou GraphQL).<br/> 
-Programmation backend → savoir coder une API avec un framework (Express.js, Flask, Django, Spring Boot, etc.).<br/> 
-Gestion des données → intégration avec bases de données (SQL ou NoSQL), sérialisation/désérialisation JSON.<br/> 
-Sécurité et authentification → mise en place de JWT, OAuth2, gestion des CORS, validation des entrées utilisateur.<br/> 
-Documentation et tests → utilisation de Swagger/OpenAPI, Postman, tests unitaires et d’intégration pour fiabilité.<br/> 
+- Conception d’API → définir les routes, les ressources, les méthodes HTTP (GET, POST, PUT, DELETE) et une structure claire (REST ou GraphQL).<br/> 
+- Programmation backend → savoir coder une API avec un framework (Express.js, Flask, Django, Spring Boot, etc.).<br/> 
+- Gestion des données → intégration avec bases de données (SQL ou NoSQL), sérialisation/désérialisation JSON.<br/> 
+- Sécurité et authentification → mise en place de JWT, OAuth2, gestion des CORS, validation des entrées utilisateur.<br/> 
+- Documentation et tests → utilisation de Swagger/OpenAPI, Postman, tests unitaires et d’intégration pour fiabilité.<br/> 
 </div>
 
 ## Conception et implémentation d'une Base de Données en ligne
 <div align="left">
 
-Configuration du projet Django → création d’un projet, gestion des settings.py, connexion avec la base via DATABASES.<br/> 
-Gestion des modèles (ORM) → définition des modèles Python, migrations (makemigrations, migrate) et gestion des relations (OneToOne, ManyToMany, ForeignKey).<br/> 
-Administration & outils intégrés → utilisation de l’admin Django, création de superutilisateurs et personnalisation des formulaires.<br/> 
-Sécurité et bonnes pratiques → gestion des accès (permissions, groupes, utilisateurs), validation des champs, protection CSRF/SQL injection.<br/> 
-Déploiement Django → mise en ligne via un serveur (Gunicorn, uWSGI, Nginx) et intégration avec Docker ou un service cloud (Heroku, AWS, etc.).
+- Configuration du projet Django → création d’un projet, gestion des settings.py, connexion avec la base via DATABASES.<br/> 
+- Gestion des modèles (ORM) → définition des modèles Python, migrations (makemigrations, migrate) et gestion des relations (OneToOne, ManyToMany, ForeignKey).<br/> 
+- Administration & outils intégrés → utilisation de l’admin Django, création de superutilisateurs et personnalisation des formulaires.<br/> 
+- Sécurité et bonnes pratiques → gestion des accès (permissions, groupes, utilisateurs), validation des champs, protection CSRF/SQL injection.<br/> 
+- Déploiement Django → mise en ligne via un serveur (Gunicorn, uWSGI, Nginx) et intégration avec Docker ou un service cloud (Heroku, AWS, etc.).
 </div>
 
 ## Me contacter  
