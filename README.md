@@ -2,12 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Plusieurs années d'expérience dans la mise en œuvre de systèmes de suivi de gestion.<br/>  Compréhension des besoins des entreprises (voir mon CV ci-dessous). <br/> Conception et implémentation d'API, Base de données en ligne et Dockerisation</div>  
+### <div align="center">Expérience "terrain" dans l'informatisation de gestion.<br/>  Compréhension des besoins des entreprises (voir CV - Expériences précédentes). <br/> Conception et implémentation d'API, Base de données en ligne et Dockerisation</div>  
 
 - J'ai suivi une formation d'un an en tant que développeur Python (OpenClassRoom, septembre 2025).
 - J'approfondis actuellement mes connaissances en Django et Docker.
 - Conception d'un site web destiné à recueillir les commentaires des partenaires commerciaux (stage de 3 mois).
-
 
 <br/>  
 
