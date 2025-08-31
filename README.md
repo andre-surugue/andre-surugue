@@ -14,13 +14,13 @@
 
 J'ai suivi une formation d'un an :<br/> 
 
-- Configuration d'un environnement de développement Python<br/> 
-- Développement d'applications web avec Django<br/> 
-- Création et sécurisation d'une base de données PostgreSQL<br/> 
-- Test, débogage et amélioration d'applications<br/> 
-- Utilisation de GitHub, Postman et des outils DevOps<br/> 
-- Conception d'API<br/> 
-- Dockerisation via Docker Hub, Docker Desktop et Render<br/> 
+- Configuration d'un environnement de développement Python  
+- Développement d'applications web avec Django  
+- Création et sécurisation d'une base de données PostgreSQL   
+- Test, débogage et amélioration d'applications  
+- Utilisation de GitHub, Postman et des outils DevOps   
+- Conception d'API  
+- Dockerisation via Docker Hub, Docker Desktop et Render  
 
 ## Informations générales
 <table><tr><td valign="top" width="33%">
