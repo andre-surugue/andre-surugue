@@ -1,31 +1,32 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">Years of experience implementing management tracking systems.<br/>  Good understanding of business needs (see my CV below). <br/> Learning how to design a full database online, at OpenClassRoom.</div>  
-  
-- I have finished a one-year training as Python Developper (september 2025)
-- I’m currently learning further Django and Docker
-- I'm designing a web-based application to collect feedbacks from business partners (3-month practice)
-  
+### <div align="center">Plusieurs années d'expérience dans la mise en œuvre de systèmes de suivi de gestion.<br/>  Compréhension des besoins des entreprises (voir mon CV ci-dessous). <br/> Conception et implémentation d'API, Base de données en ligne et Dockerisation</div>  
+
+- J'ai suivi une formation d'un an en tant que développeur Python (OpenClassRoom, septembre 2025).
+- J'approfondis actuellement mes connaissances en Django et Docker.
+- Conception d'un site web destiné à recueillir les commentaires des partenaires commerciaux (stage de 3 mois).
+
 
 <br/>  
 
-## Computer training (2025)<br/>  
+## Formation théorique et pratique d'un an - OpenClassRoom (2025)<br/>  
 
-I have completed a one-year training :
+J'ai suivi une formation d'un an :
 
-- Set up a Python development environment
-- Develop web applications with Django
-- Create and secure a PostgreSQL database
-- Test, debug, and improve applications
-- Use GitHub, Postman, and DevOps tools
+- Configuration d'un environnement de développement Python
+- Développement d'applications web avec Django
+- Création et sécurisation d'une base de données PostgreSQL
+- Test, débogage et amélioration d'applications
+- Utilisation de GitHub, Postman et des outils DevOps
+- Conception d'API
+- Dockerisation via Docker Hub, Docker Desktop et Render
 
-## General information
+## Informations générales
 <table><tr><td valign="top" width="33%">
 
-## My Skill Set  
+## Mes compétences  
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -74,7 +75,7 @@ Sécurité et bonnes pratiques → gestion des accès (permissions, groupes, uti
 Déploiement Django → mise en ligne via un serveur (Gunicorn, uWSGI, Nginx) et intégration avec Docker ou un service cloud (Heroku, AWS, etc.).
 </div>
 
-## Connect with me  
+## Me contacter  
 <div align="left">
 
 <img src="https://raw.githubusercontent.com/andre-surugue/andre-surugue.github.io/main/assets/contact.jpg" alt="Contact" width="40%" />
@@ -86,11 +87,11 @@ Déploiement Django → mise en ligne via un serveur (Gunicorn, uWSGI, Nginx) et
 
 
 
-## Former Curriculum-vitae  
+## Expériences précédentes (commerce international)  
 
-I have a background in **international business**, with a formal education in litterature and economics/business.<br/>
+Background en **Commerce International (ESC)**, avec éducation en littérature et économie (Bac+5).<br/>
 <div align="center">
-Further detail here :
+Plus de détails ici :
 
 https://andre-surugue.github.io/
 
@@ -98,13 +99,12 @@ https://andre-surugue.github.io/
 
 
 
-## Other  
+## Autres
 <!-- BLOG-POST-LIST:START -->  
-- Has lived abroad many years : 11 in Russia, 8 in Bulgaria, 3 in Denmark.
-- Speak several languages : English, Spanish, Russian, Italian, Danish.
-- Keen interest in various fields of knowledge : Science, History, Litterature, Philosophy.
-- Learns quickly, thoroughly, and by myself.
-- Published author (fiction).
+- Séjours longs à l'étranger : 11 ans en Russie, 8 ans en Bulgarie, 4 ans au Danemark.
+- Je suis polyglotte : Anglais, Espagnol, Russe, Danois.
+- Intérêt dans divers domaines : Sciences, Histoire, Littérature.
+- J'apprend vite, de façon autonome et rigoureuse.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
