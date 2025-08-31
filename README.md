@@ -12,15 +12,15 @@
 
 ## Formation théorique et pratique d'un an - OpenClassRoom (2025)<br/>  
 
-J'ai suivi une formation d'un an :
+J'ai suivi une formation d'un an :<br/> 
 
-- Configuration d'un environnement de développement Python
-- Développement d'applications web avec Django
-- Création et sécurisation d'une base de données PostgreSQL
-- Test, débogage et amélioration d'applications
-- Utilisation de GitHub, Postman et des outils DevOps
-- Conception d'API
-- Dockerisation via Docker Hub, Docker Desktop et Render
+- Configuration d'un environnement de développement Python<br/> 
+- Développement d'applications web avec Django<br/> 
+- Création et sécurisation d'une base de données PostgreSQL<br/> 
+- Test, débogage et amélioration d'applications<br/> 
+- Utilisation de GitHub, Postman et des outils DevOps<br/> 
+- Conception d'API<br/> 
+- Dockerisation via Docker Hub, Docker Desktop et Render<br/> 
 
 ## Informations générales
 <table><tr><td valign="top" width="33%">
@@ -47,30 +47,30 @@ J'ai suivi une formation d'un an :
 ## Mise en oeuvre d'un Docker 
 <div align="left">
 
-Maîtrise de la conteneurisation → création d’images Docker, écriture de Dockerfile efficaces et optimisation des couches.
-Gestion des environnements → utilisation de docker-compose, orchestration de plusieurs services (BDD, backend, frontend, etc.).
-Réseaux et volumes → configuration des réseaux Docker, gestion des volumes persistants et partage de données entre conteneurs.
-Sécurité et bonnes pratiques → minimiser la taille des images, gestion des secrets et mise à jour régulière des conteneurs.
+Maîtrise de la conteneurisation → création d’images Docker, écriture de Dockerfile efficaces et optimisation des couches.<br/> 
+Gestion des environnements → utilisation de docker-compose, orchestration de plusieurs services (BDD, backend, frontend, etc.).<br/> 
+Réseaux et volumes → configuration des réseaux Docker, gestion des volumes persistants et partage de données entre conteneurs.<br/> 
+Sécurité et bonnes pratiques → minimiser la taille des images, gestion des secrets et mise à jour régulière des conteneurs.<br/> 
 Déploiement et CI/CD → intégration de Docker dans des pipelines (GitLab CI, GitHub Actions, Jenkins) et déploiement sur serveurs ou cloud (AWS, GCP, Azure).
 </div>
 
 ## Conception et implémentation d'une API 
 <div align="left">
 
-Conception d’API → définir les routes, les ressources, les méthodes HTTP (GET, POST, PUT, DELETE) et une structure claire (REST ou GraphQL).
-Programmation backend → savoir coder une API avec un framework (Express.js, Flask, Django, Spring Boot, etc.).
-Gestion des données → intégration avec bases de données (SQL ou NoSQL), sérialisation/désérialisation JSON.
-Sécurité et authentification → mise en place de JWT, OAuth2, gestion des CORS, validation des entrées utilisateur.
-Documentation et tests → utilisation de Swagger/OpenAPI, Postman, tests unitaires et d’intégration pour fiabilité.
+Conception d’API → définir les routes, les ressources, les méthodes HTTP (GET, POST, PUT, DELETE) et une structure claire (REST ou GraphQL).<br/> 
+Programmation backend → savoir coder une API avec un framework (Express.js, Flask, Django, Spring Boot, etc.).<br/> 
+Gestion des données → intégration avec bases de données (SQL ou NoSQL), sérialisation/désérialisation JSON.<br/> 
+Sécurité et authentification → mise en place de JWT, OAuth2, gestion des CORS, validation des entrées utilisateur.<br/> 
+Documentation et tests → utilisation de Swagger/OpenAPI, Postman, tests unitaires et d’intégration pour fiabilité.<br/> 
 </div>
 
 ## Conception et implémentation d'une Base de Données en ligne
 <div align="left">
 
-Configuration du projet Django → création d’un projet, gestion des settings.py, connexion avec la base via DATABASES.
-Gestion des modèles (ORM) → définition des modèles Python, migrations (makemigrations, migrate) et gestion des relations (OneToOne, ManyToMany, ForeignKey).
-Administration & outils intégrés → utilisation de l’admin Django, création de superutilisateurs et personnalisation des formulaires.
-Sécurité et bonnes pratiques → gestion des accès (permissions, groupes, utilisateurs), validation des champs, protection CSRF/SQL injection.
+Configuration du projet Django → création d’un projet, gestion des settings.py, connexion avec la base via DATABASES.<br/> 
+Gestion des modèles (ORM) → définition des modèles Python, migrations (makemigrations, migrate) et gestion des relations (OneToOne, ManyToMany, ForeignKey).<br/> 
+Administration & outils intégrés → utilisation de l’admin Django, création de superutilisateurs et personnalisation des formulaires.<br/> 
+Sécurité et bonnes pratiques → gestion des accès (permissions, groupes, utilisateurs), validation des champs, protection CSRF/SQL injection.<br/> 
 Déploiement Django → mise en ligne via un serveur (Gunicorn, uWSGI, Nginx) et intégration avec Docker ou un service cloud (Heroku, AWS, etc.).
 </div>
 
