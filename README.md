@@ -44,6 +44,36 @@ I have completed a one-year training :
 
 <br/>  
 
+## Mise en oeuvre d'un Docker 
+<div align="left">
+
+Maîtrise de la conteneurisation → création d’images Docker, écriture de Dockerfile efficaces et optimisation des couches.
+Gestion des environnements → utilisation de docker-compose, orchestration de plusieurs services (BDD, backend, frontend, etc.).
+Réseaux et volumes → configuration des réseaux Docker, gestion des volumes persistants et partage de données entre conteneurs.
+Sécurité et bonnes pratiques → minimiser la taille des images, gestion des secrets et mise à jour régulière des conteneurs.
+Déploiement et CI/CD → intégration de Docker dans des pipelines (GitLab CI, GitHub Actions, Jenkins) et déploiement sur serveurs ou cloud (AWS, GCP, Azure).
+</div>
+
+## Conception et implémentation d'une API 
+<div align="left">
+
+Conception d’API → définir les routes, les ressources, les méthodes HTTP (GET, POST, PUT, DELETE) et une structure claire (REST ou GraphQL).
+Programmation backend → savoir coder une API avec un framework (Express.js, Flask, Django, Spring Boot, etc.).
+Gestion des données → intégration avec bases de données (SQL ou NoSQL), sérialisation/désérialisation JSON.
+Sécurité et authentification → mise en place de JWT, OAuth2, gestion des CORS, validation des entrées utilisateur.
+Documentation et tests → utilisation de Swagger/OpenAPI, Postman, tests unitaires et d’intégration pour fiabilité.
+</div>
+
+## Conception et implémentation d'une Base de Données en ligne
+<div align="left">
+
+Configuration du projet Django → création d’un projet, gestion des settings.py, connexion avec la base via DATABASES.
+Gestion des modèles (ORM) → définition des modèles Python, migrations (makemigrations, migrate) et gestion des relations (OneToOne, ManyToMany, ForeignKey).
+Administration & outils intégrés → utilisation de l’admin Django, création de superutilisateurs et personnalisation des formulaires.
+Sécurité et bonnes pratiques → gestion des accès (permissions, groupes, utilisateurs), validation des champs, protection CSRF/SQL injection.
+Déploiement Django → mise en ligne via un serveur (Gunicorn, uWSGI, Nginx) et intégration avec Docker ou un service cloud (Heroku, AWS, etc.).
+</div>
+
 ## Connect with me  
 <div align="left">
 
